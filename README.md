@@ -2,7 +2,7 @@
 
 ## Features
 
-This template uses [Python 3.10](https://docs.python.org/3.10/) and [Selenium](https://www.selenium.dev/documentation/).
+This template uses [Python 3.12](https://docs.python.org/3.12/) and [Selenium](https://www.selenium.dev/documentation/).
 
 ## Environment variables
 
